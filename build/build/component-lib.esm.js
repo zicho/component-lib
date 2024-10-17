@@ -1,0 +1,2 @@
+import{p as t,b as a}from"./p-a24478fb.js";export{s as setNonce}from"./p-a24478fb.js";import{g as e}from"./p-e1255160.js";var o=()=>{const s=import.meta.url;const a={};if(s!==""){a.resourcesUrl=new URL(".",s).href}return t(a)};o().then((async t=>{await e();return a([["p-e8590360",[[1,"my-button",{label:[1]}]]],["p-f0ecf542",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],t)}));
+//# sourceMappingURL=component-lib.esm.js.map
